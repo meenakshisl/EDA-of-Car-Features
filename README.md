@@ -1,4 +1,4 @@
-# EDA-of-Car-Features
+# Machine Learning (Training + Internship)
 #### Project for NEO Olympiad.
 
 This repo contains the progress of my work while working on the project along with some of the practice code snippets I tried while taking the training.
