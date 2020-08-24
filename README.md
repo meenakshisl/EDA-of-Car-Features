@@ -14,7 +14,7 @@ The objective of the project is to do data pre-processing and exploratory data a
 |---|---|
 |Make|Car Make |
 |Model|Car Model | 
-|Year| Car Year (Marketing)|
+|Year|Car Year (Marketing)|
 |Engine Fuel Type| Engine Fuel Type|
 |Engine HP | Engine HorsePower (HP)|
 |Engine|Cylinders Engine Cylinders|
